@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601486633446",
+    "project_id": "btechproject-6e661",
+    "storage_bucket": "btechproject-6e661.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601486633446:android:3edfc6454cfe2a0dd94e27",
+        "android_client_info": {
+          "package_name": "com.example.btech_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv5pF9_CptH58qZP7AXZHNNg7hcnoEAmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
