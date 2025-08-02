@@ -34,5 +34,4 @@ MarketMate is a Flutter-based mobile application built to empower and connect Mi
 - ♻️ Waste management and recycling network
 - 🌍 Regional language support
 
-   git clone https://github.com/your-username/marketmate.git
-   cd marketmate
+   git clone [https://github.com/your-username/marketmate.git](https://github.com/17Pranali/Marketmate.git)
