@@ -39,22 +39,20 @@ MarketMate is a Flutter-based mobile application built to empower and connect Mi
 
 # 📱 Screenshots
 
-### 🌐 Welcome Screen (Light & Dark)
-![Welcome Light](images/welcome_light.jpg)
-![Welcome Dark](images/welcome_dark.jpg)
+<h3>🌐 Welcome Screens</h3>
+<p float="left">
+  <img src="images/welcome_light.jpg" width="250"/>
+  <img src="images/welcome_dark.jpg" width="250"/>
+</p>
 
-### 🏠 Home Page
-![Home Page](images/home_page.jpg)
+<h3>🔐 User Registration</h3>
+<p float="left">
+  <img src="images/user_registration.jpg" width="250"/>
+  <img src="images/email_authentication.jpg" width="250"/>
+</p>
 
-### 💬 Chat Feature
-![Chat Screen](images/chat_screen.jpg)
-
-### 🔐 Registration
-![User Registration](images/user_registration.jpg)
-
-### 👥 Profile View
-![Profile View](images/profile_view.jpg)
-
-### 🔗 Connection Requests
-![Connection Sent](images/request_sent.jpg)
-![Request Accepted](images/request_accepted.jpg)
+<h3>💬 Chat System</h3>
+<p float="left">
+  <img src="images/chat_screen.jpg" width="250"/>
+  <img src="images/full_chat.jpg" width="250"/>
+</p>
