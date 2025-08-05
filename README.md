@@ -35,3 +35,26 @@ MarketMate is a Flutter-based mobile application built to empower and connect Mi
 - 🌍 Regional language support
 
    git clone [https://github.com/your-username/marketmate.git](https://github.com/17Pranali/Marketmate.git)
+
+
+# 📱 Screenshots
+
+### 🌐 Welcome Screen (Light & Dark)
+![Welcome Light](images/welcome_light.jpg)
+![Welcome Dark](images/welcome_dark.jpg)
+
+### 🏠 Home Page
+![Home Page](images/home_page.jpg)
+
+### 💬 Chat Feature
+![Chat Screen](images/chat_screen.jpg)
+
+### 🔐 Registration
+![User Registration](images/user_registration.jpg)
+
+### 👥 Profile View
+![Profile View](images/profile_view.jpg)
+
+### 🔗 Connection Requests
+![Connection Sent](images/request_sent.jpg)
+![Request Accepted](images/request_accepted.jpg)
